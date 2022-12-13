@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  thomaschoi143
 
 # Build settings
-theme: pages-themes/hacker@v0.2.0
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
